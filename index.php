@@ -1,6 +1,6 @@
 <pre>
 <?php
 print("Hello from Cloud");
-print `ifconfig`;
+print `/usr/sbin/ifconfig`;
 ?>
 </pre>
